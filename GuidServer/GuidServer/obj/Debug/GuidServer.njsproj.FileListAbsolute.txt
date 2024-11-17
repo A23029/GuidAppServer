@@ -1,0 +1,3 @@
+C:\Users\A23029\Desktop\SP\server\GuidServer\GuidServer\obj\Debug\GuidServer.njsproj.AssemblyReference.cache
+C:\Users\A23029\Desktop\SP\server\GuidServer\GuidServer\obj\Debug\GuidServer.njsproj.CoreCompileInputs.cache
+C:\Users\A23029\Desktop\SP\server\GuidServer\GuidServer\bin\Microsoft.NodejsTools.WebRole.dll

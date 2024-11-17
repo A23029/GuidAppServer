@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A23029\\Desktop\\SP\\server\\GuidServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7542C5BD-0A20-40F2-86CE-F4079E9AF4FA}|GuidServer\\GuidServer.njsproj|C:\\Users\\A23029\\Desktop\\SP\\server\\GuidServer\\GuidServer\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7542C5BD-0A20-40F2-86CE-F4079E9AF4FA}|GuidServer\\GuidServer.njsproj|solutionrelative:GuidServer\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542C5BD-0A20-40F2-86CE-F4079E9AF4FA}|GuidServer\\GuidServer.njsproj|C:\\Users\\A23029\\Desktop\\SP\\server\\GuidServer\\GuidServer\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7542C5BD-0A20-40F2-86CE-F4079E9AF4FA}|GuidServer\\GuidServer.njsproj|solutionrelative:GuidServer\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\A23029\\Desktop\\SP\\server\\GuidServer\\GuidServer\\package.json",
+              "RelativeDocumentMoniker": "GuidServer\\package.json",
+              "ToolTip": "C:\\Users\\A23029\\Desktop\\SP\\server\\GuidServer\\GuidServer\\package.json",
+              "RelativeToolTip": "GuidServer\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T07:20:56.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\A23029\\Desktop\\SP\\server\\GuidServer\\GuidServer\\server.js",
+              "RelativeDocumentMoniker": "GuidServer\\server.js",
+              "ToolTip": "C:\\Users\\A23029\\Desktop\\SP\\server\\GuidServer\\GuidServer\\server.js",
+              "RelativeToolTip": "GuidServer\\server.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-15T07:18:56.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
